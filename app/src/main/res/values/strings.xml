@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">unu</string>
+    <string name="Nombre">Franquitos app</string>
+    <string name="sig">Siguiente</string>
+    <string name="volver">Volver</string>
+    <string name="Dividir">Multiplicar</string>
+    <string name="Multiplicar">Fibonnaci</string>
+    <string name="Restar">Potencia</string>
+</resources>
