@@ -6,4 +6,5 @@
     <string name="Dividir">Multiplicar</string>
     <string name="Multiplicar">Fibonnaci</string>
     <string name="Restar">Potencia</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

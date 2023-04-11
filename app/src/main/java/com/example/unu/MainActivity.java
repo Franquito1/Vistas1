@@ -47,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(intent3);
                         break;
                     case 4:
+                        Intent intent4 = new Intent(MainActivity.this, MapsActivity.class);
+                        startActivity(intent4);
+                        break;
+                    case 5:
                         text1.setText("No es posible ingresar valores diferentes de 1, 2 y 3");
                         break;
                 }
